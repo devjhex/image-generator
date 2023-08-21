@@ -1,0 +1,12 @@
+{
+  "name": "jhex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "all.js",
+  "scripts": {
+    "tailwind": "tailwindcss -i input.css -o output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
